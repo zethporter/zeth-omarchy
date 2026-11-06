@@ -2,6 +2,8 @@
 
 Makes the [Herdr app](https://herdr.dev) follow your Omarchy theme and terminal font.
 
+![Herdr themed by Omarchy](preview.png)
+
 On every `omarchy theme set` / `omarchy font set` it:
 
 - reads the active theme's `colors.toml` and writes `~/.config/herdr-app/themes/omarchy.json`
